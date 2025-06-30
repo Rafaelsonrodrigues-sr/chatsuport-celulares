@@ -2,7 +2,7 @@
 o projeto consiste na criação de um chat que ajude a retirar duvidas simples de clientes, de forma eficiente e direta
 # Perguntas Frequentes – Assistência Técnica de Celulares
 
-## 📱 1. Consertos e Reparos
+## 1. Consertos e Reparos
 
 **1. Quanto tempo leva para consertar a tela quebrada?**
 O prazo pode variar de acordo com o modelo do aparelho, mas geralmente o reparo é feito em até 2 horas.
@@ -21,7 +21,7 @@ Na maioria dos casos, sim. Realizamos uma análise completa para verificar se h�
 
 ---
 
-## 💰 2. Orçamento e Preço
+## 2. Orçamento e Preço
 
 **1. Quanto custa para trocar a tela do meu celular?**
 O valor depende do modelo do aparelho. Entre em contato informando a marca e modelo para receber um orçamento.
@@ -40,7 +40,7 @@ Sim, oferecemos desconto de até 10% para pagamento em dinheiro ou PIX.
 
 ---
 
-## ⏰ 3. Atendimento e Prazo
+## 3. Atendimento e Prazo
 
 **1. Preciso agendar um horário para atendimento?**
 Não é necessário agendamento. Atendemos por ordem de chegada.
@@ -59,7 +59,7 @@ Sim, enviamos atualizações por WhatsApp ou SMS conforme o andamento do serviç
 
 ---
 
-## 🛡️ 4. Garantia e Qualidade
+## 4. Garantia e Qualidade
 
 **1. O conserto tem garantia? Por quanto tempo?**
 Sim. Todos os consertos contam com garantia, geralmente de 90 dias.
@@ -78,7 +78,7 @@ Sim, emitimos nota fiscal eletrônica para todos os serviços realizados.
 
 ---
 
-## 🧰 5. Serviços Disponíveis
+## 5. Serviços Disponíveis
 
 **1. Vocês fazem desbloqueio de celular?**
 Sim, realizamos desbloqueio de operadora, senha e conta Google (FRP), conforme a legalidade.
